@@ -62,12 +62,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikashg450&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=vikashg450&theme=dark&hide_border=false" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashg450&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://img.shields.io/github/languages/top/vikashg450/Telcom-Customer-Churn-Dataset-Analysis?style=for-the-badge&color=2E9EF7&label=Top%20Language" />
 </p>
 
 ---
