@@ -72,6 +72,32 @@
 
 ---
 
+### 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikashg450&theme=react-dark&hide_border=false&area=true" alt="Activity Graph" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vikashg450/vikashg450/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+> 💡 To enable the snake animation above, add the **[platane/snk](https://github.com/Platane/snk)** GitHub Action to your profile repo — it auto-generates and commits the snake SVG to an `output` branch daily.
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vikashg450&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=vikashg450&icon=0&color=0" alt="Visitor Count" />
 </p>
