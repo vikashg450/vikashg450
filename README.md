@@ -63,7 +63,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vikashg450&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="165"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vikashg450&theme=dark&hide_border=false" alt="GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=vikashg450&theme=dark&hide_border=false" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
@@ -72,24 +72,26 @@
 
 ---
 
-### 📈 Contribution Activity Graph
+### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikashg450&theme=react-dark&hide_border=false&area=true" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/2E9EF7/vikashg450" alt="Contribution Graph" width="100%"/>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏅 Quick Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikashg450&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" alt="Trophies" />
+  <img src="https://img.shields.io/github/followers/vikashg450?label=Followers&style=for-the-badge&color=2E9EF7&logo=github" />
+  <img src="https://img.shields.io/github/stars/vikashg450?label=Total%20Stars&style=for-the-badge&color=2E9EF7&logo=github" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/vikashg450&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=2E9EF7&logo=github" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=vikashg450&icon=0&color=0" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=vikashg450&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="Visitor Count" />
 </p>
 
 <h3 align="center">Thanks for visiting my profile! Feel free to connect 🤝</h3>
