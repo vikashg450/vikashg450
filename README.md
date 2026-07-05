@@ -80,20 +80,10 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vikashg450/vikashg450/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-> 💡 To enable the snake animation above, add the **[platane/snk](https://github.com/Platane/snk)** GitHub Action to your profile repo — it auto-generates and commits the snake SVG to an `output` branch daily.
-
----
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikashg450&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vikashg450&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" alt="Trophies" />
 </p>
 
 ---
